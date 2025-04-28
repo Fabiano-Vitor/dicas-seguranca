@@ -7,8 +7,8 @@
 ✨ Ideal para estudo, prática e conscientização.
 
 📌 Ativando Autenticação em Duas Etapas (2FA)
-🔹 Google (Gmail)
-Acesse: [Configurações de Segurança do Google](https://myaccount.google.com/security)
+🔹 Google (Gmail)<br>
+Acesse: [Configurações de Segurança do Google](https://myaccount.google.com/security)<br>
 Vá até a seção "Como fazer login no Google".
 Clique em "Verificação em duas etapas" > "Ativar".
 Escolha entre:
