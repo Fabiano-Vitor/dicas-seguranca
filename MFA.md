@@ -60,19 +60,19 @@
 <hr>
 
 🔹 Twitter (X)
-Acesse: Configurações de Segurança Twitter
-
-Vá em Segurança > Autenticação em duas etapas.
-
-Escolha:
-
-Aplicativo autenticador
-
-SMS
-
-Chave de segurança física
-
-🔗 Ajuda oficial Twitter
+<ul class="Twitter">
+	<li> Acesse: Configurações de Segurança Twitter </li>
+	<li> Vá em Segurança > Autenticação em duas etapas. </li>
+		<li>Escolha entre:
+	       	<ul>
+	           <li>Aplicativo autenticador</li>
+	           <li>SMS</li>
+	           <li>Chave de segurança física</li>
+	           </ul>
+		</li>
+ </ul
+	   
+[🔗 Ajuda oficial Twitter](https://help.x.com/pt/managing-your-account/two-factor-authentication)
 
 <hr>
 
