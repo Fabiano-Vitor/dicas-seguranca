@@ -76,13 +76,10 @@
 
 <hr>
 
-🎯 Dicas Rápidas de Segurança
-Prefira aplicativos autenticadores em vez de SMS.
+🎯 Dicas Rápidas de Segurança <br>
+Prefira aplicativos autenticadores em vez de SMS. <br>
+Ative 2FA em todos os serviços importantes (e-mail, bancos, redes sociais). <br>
+Armazene seus códigos de backup em local seguro (não apenas no celular). <br>
+Revise periodicamente suas configurações de segurança. <br>
 
-Ative 2FA em todos os serviços importantes (e-mail, bancos, redes sociais).
-
-Armazene seus códigos de backup em local seguro (não apenas no celular).
-
-Revise periodicamente suas configurações de segurança.
-
-⚡ Bora proteger suas contas!
+<h3>⚡ Bora proteger suas contas! </h3>
