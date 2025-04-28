@@ -2,13 +2,31 @@
 
 ## 📌 Ativando Autenticação em Duas Etapas (2FA)
 
-1. Acesse as configurações da sua conta.
-2. Procure a opção "Segurança" ou "Login e autenticação".
-3. Ative a opção "Autenticação em Duas Etapas".
-4. Escolha entre:
-   - SMS
-   - Aplicativo autenticador (recomendado)
-   - Chave de segurança física
+📱 Como ativar a 2FA no Google (Gmail)
+1. Acesse a página de segurança do Google
+🔗 Clique aqui para acessar
+
+2. Encontre "Como fazer login no Google"
+Localize a opção "Verificação em duas etapas".
+
+Clique em "Ativar".
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/2-step_verification_Google.png" alt="Ativar 2FA no Google" width="600"/>
+3. Escolha o método de verificação
+Você poderá configurar:
+
+Mensagem no smartphone (recomendado)
+
+Códigos via SMS
+
+Aplicativo autenticador (ex: Google Authenticator, Authy)
+
+Chave de segurança física (ex: YubiKey)
+
+4. Finalize a configuração
+Confirme a escolha e siga as instruções.
+
+Guarde os códigos de backup em local seguro!
 
 ## 📌 Criando Senhas Fortes
 
