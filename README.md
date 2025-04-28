@@ -8,6 +8,20 @@
 
 📌 Ativando Autenticação em Duas Etapas (2FA)<br>
 🔹 Google (Gmail)<br>
+ <ul class="Gmail">
+		<li><a href="#"></a> Configurações de Segurança do Google </li>
+		<li><a href="#">Vá até a seção "Como fazer login no Google</a></li>
+	  		<li><a href="#">Clique em "Verificação em duas etapas" > "Ativar".</a>
+	         	<ul>
+	                  <li><a href="#">Aplicativo autenticador (Google Authenticator, Authy)</a></li>
+	                  <li><a href="#">SMS</a></li>
+	                  <li><a href="#">Chave de segurança física (YubiKey)</a></li>
+	       		</ul>
+			</li>
+</ul>
+
+
+
 Acesse: [Configurações de Segurança do Google](https://myaccount.google.com/security)<br>
 Vá até a seção "Como fazer login no Google".
 Clique em "Verificação em duas etapas" > "Ativar".
