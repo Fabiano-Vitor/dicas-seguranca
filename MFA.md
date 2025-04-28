@@ -84,3 +84,6 @@ Armazene seus códigos de backup em local seguro (não apenas no celular). <br>
 Revise periodicamente suas configurações de segurança. <br>
 
 <h3>⚡ Bora proteger suas contas! </h3>
+
+✍️ Autor
+Fabiano Vitor de Souza Tavares
