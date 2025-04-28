@@ -40,12 +40,7 @@
 		</li>
  </ul>
 
-
-📸 Exemplo:
-
 [🔗 Guia oficial do Google sobre 2FA](https://support.microsoft.com/pt-br/account-billing/como-usar-a-verifica%C3%A7%C3%A3o-em-duas-etapas-para-sua-conta-microsoft-c7910146-672f-01e9-50a0-93b4585e7eb4)
-
-🔗 Guia oficial da Microsoft sobre 2FA
 
 <hr>
 
