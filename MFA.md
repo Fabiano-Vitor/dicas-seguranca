@@ -57,16 +57,6 @@
 
 [🔗 Ajuda oficial Instagram](https://help.instagram.com/566810106808145)
 
-Abra o app e vá em: Configurações > Segurança > Autenticação de dois fatores.
-
-Escolha:
-
-Aplicativo autenticador
-
-SMS
-
-🔗 Ajuda oficial Instagram
-
 <hr>
 
 🔹 Twitter (X)
