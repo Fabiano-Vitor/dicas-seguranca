@@ -11,7 +11,7 @@
  <ul class="Gmail">
 	<li> Acesse: <a href="https://myaccount.google.com/security"> Configurações de Segurança do Google</a></li>
 	<li><a href="">Vá até a seção "Como fazer login no Google</a></li>
-		<li><a href="">Clique em "Verificação em duas etapas" > "Ativar".</a>
+		<li>Clique em "Verificação em duas etapas" > "Ativar".
 	       	<ul>
 	           <li><a href="">Aplicativo autenticador (Google Authenticator, Authy)</a></li>
 	           <li><a href="">SMS</a></li>
