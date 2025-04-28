@@ -1,7 +1,6 @@
-<title> 🛡️ Dicas de Segurança Digital 
-</title>
+<h1> 🛡️ Dicas de Segurança Digital </h1>
 
-🚀 Sobre este Repositório
+<h3>🚀 Sobre este Repositório</h3>
 
 📚 Conteúdo para ajudar iniciantes a proteger suas contas online.<br>
 🔐 Foco em autenticação em duas etapas (2FA) e boas práticas de segurança.<br>
