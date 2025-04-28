@@ -27,7 +27,7 @@
 <hr>
 
 🔹 Hotmail / Outlook / Microsoft Account
-<ul class="Gmail">
+<ul class="Microsoft">
 	<li> Acesse: <a href="https://account.microsoft.com/security"> Configurações de Segurança Microsoft</a></li>
 	<li>Clique em "Opções de segurança avançadas".</li>
 	<li>Vá até "Verificação em duas etapas" e clique em "Ativar".</li>
@@ -40,11 +40,23 @@
 		</li>
  </ul>
 
-[🔗 Guia oficial do Google sobre 2FA](https://support.microsoft.com/pt-br/account-billing/como-usar-a-verifica%C3%A7%C3%A3o-em-duas-etapas-para-sua-conta-microsoft-c7910146-672f-01e9-50a0-93b4585e7eb4)
+[🔗 Guia oficial da Microsoft sobre 2FA](https://support.microsoft.com/pt-br/account-billing/como-usar-a-verifica%C3%A7%C3%A3o-em-duas-etapas-para-sua-conta-microsoft-c7910146-672f-01e9-50a0-93b4585e7eb4)
 
 <hr>
 
 🔹 Instagram
+<ul class="Instagram">
+	<li> Abra o app e vá em: Configurações > Segurança > Autenticação de dois fatores. </li>
+		<li>Escolha entre:
+	       	<ul>
+	           <li>Aplicativo autenticador</li>
+	           <li>SMS</li>
+	           </ul>
+		</li>
+ </ul>
+
+[🔗 Ajuda oficial Instagram](https://help.instagram.com/566810106808145)
+
 Abra o app e vá em: Configurações > Segurança > Autenticação de dois fatores.
 
 Escolha:
