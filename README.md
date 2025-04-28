@@ -6,7 +6,7 @@
 🔐 Foco em autenticação em duas etapas (2FA) e boas práticas de segurança.<br>
 ✨ Ideal para estudo, prática e conscientização.
 
-📌 Ativando Autenticação em Duas Etapas (2FA)
+📌 Ativando Autenticação em Duas Etapas (2FA)<br>
 🔹 Google (Gmail)<br>
 Acesse: [Configurações de Segurança do Google](https://myaccount.google.com/security)<br>
 Vá até a seção "Como fazer login no Google".
@@ -28,6 +28,20 @@ Acesse: Configurações de Segurança Microsoft
 Clique em "Opções de segurança avançadas".
 
 Vá até "Verificação em duas etapas" e clique em "Ativar".
+
+ <ul class="menu">
+		<li><a href="#">Home</a></li>
+		<li><a href="#">Sobre</a></li>
+	  		<li><a href="#">O que fazemos?</a>
+	         	<ul>
+	                  <li><a href="#">Web Design</a></li>
+	                  <li><a href="#">SEO</a></li>
+	                  <li><a href="#">Design</a></li>
+	       		</ul>
+			</li>
+		<li><a href="#">Links</a></li>
+		<li><a href="#">Contato</a></li>
+</ul>
 
 Escolha entre:
 
