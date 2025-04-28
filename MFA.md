@@ -27,23 +27,27 @@
 <hr>
 
 🔹 Hotmail / Outlook / Microsoft Account
-Acesse: Configurações de Segurança Microsoft
+<ul class="Gmail">
+	<li> Acesse: <a href="https://account.microsoft.com/security"> Configurações de Segurança Microsoft</a></li>
+	<li>Clique em "Opções de segurança avançadas".</li>
+	<li>Vá até "Verificação em duas etapas" e clique em "Ativar".</li>
+		<li>Escolha entre:
+	       	<ul>
+	           <li>Aplicativo autenticador</li>
+	           <li>SMS</li>
+	           <li>E-mail alternativo</li>
+		</ul>
+		</li>
+ </ul>
 
-Clique em "Opções de segurança avançadas".
-
-Vá até "Verificação em duas etapas" e clique em "Ativar".
-
-Escolha entre:
-
-Aplicativo autenticador
-
-SMS
-
-E-mail alternativo
 
 📸 Exemplo:
 
+[🔗 Guia oficial do Google sobre 2FA](https://support.microsoft.com/pt-br/account-billing/como-usar-a-verifica%C3%A7%C3%A3o-em-duas-etapas-para-sua-conta-microsoft-c7910146-672f-01e9-50a0-93b4585e7eb4)
+
 🔗 Guia oficial da Microsoft sobre 2FA
+
+<hr>
 
 🔹 Instagram
 Abra o app e vá em: Configurações > Segurança > Autenticação de dois fatores.
@@ -55,6 +59,8 @@ Aplicativo autenticador
 SMS
 
 🔗 Ajuda oficial Instagram
+
+<hr>
 
 🔹 Twitter (X)
 Acesse: Configurações de Segurança Twitter
@@ -71,6 +77,8 @@ Chave de segurança física
 
 🔗 Ajuda oficial Twitter
 
+<hr>
+
 🎯 Dicas Rápidas de Segurança
 Prefira aplicativos autenticadores em vez de SMS.
 
@@ -79,8 +87,5 @@ Ative 2FA em todos os serviços importantes (e-mail, bancos, redes sociais).
 Armazene seus códigos de backup em local seguro (não apenas no celular).
 
 Revise periodicamente suas configurações de segurança.
-
-🌐 Conecte-se Comigo
-
 
 ⚡ Bora proteger suas contas!
