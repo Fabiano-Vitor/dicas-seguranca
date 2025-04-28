@@ -1,21 +1,82 @@
-# 🛡️ Dicas de Segurança Digital
+🛡️ Dicas de Segurança Digital
 
-## 📌 Ativando Autenticação em Duas Etapas (2FA)
+🚀 Sobre este Repositório
 
-### 🔹 Instagram
+📚 Conteúdo para ajudar iniciantes a proteger suas contas online.
+🔐 Foco em autenticação em duas etapas (2FA) e boas práticas de segurança.
+✨ Ideal para estudo, prática e conscientização.
 
-<a href="https://help.instagram.com/566810106808145" target="_blank">
-🔗 Ajuda oficial do Instagram sobre Autenticação em Duas Etapas
-</a>
+📌 Ativando Autenticação em Duas Etapas (2FA)
+🔹 Google (Gmail)
+Acesse: [Configurações de Segurança do Google](https://myaccount.google.com/security)
+Vá até a seção "Como fazer login no Google".
+Clique em "Verificação em duas etapas" > "Ativar".
+Escolha entre:
+Aplicativo autenticador (Google Authenticator, Authy)
+SMS
+Chave de segurança física (YubiKey)
 
----
+📸 Exemplo:
 
-# 🌐 Outros Recursos
 
-<a href="https://support.google.com/accounts/answer/185839?hl=pt-BR" target="_blank">
-🔗 Guia oficial do Google para Verificação em Duas Etapas
-</a>
+[🔗 Guia oficial do Google sobre 2FA](https://myaccount.google.com/security)
+Vá até a
 
-<a href="https://support.microsoft.com/pt-br/account-billing/como-usar-a-verificação-em-duas-etapas-com-a-sua-conta-da-microsoft-0d6dfb17-4be5-4b4c-b960-efd07b6f4c99" target="_blank">
-🔗 Guia oficial da Microsoft para Ativar 2FA
-</a>
+🔹 Hotmail / Outlook / Microsoft Account
+Acesse: Configurações de Segurança Microsoft
+
+Clique em "Opções de segurança avançadas".
+
+Vá até "Verificação em duas etapas" e clique em "Ativar".
+
+Escolha entre:
+
+Aplicativo autenticador
+
+SMS
+
+E-mail alternativo
+
+📸 Exemplo:
+
+🔗 Guia oficial da Microsoft sobre 2FA
+
+🔹 Instagram
+Abra o app e vá em: Configurações > Segurança > Autenticação de dois fatores.
+
+Escolha:
+
+Aplicativo autenticador
+
+SMS
+
+🔗 Ajuda oficial Instagram
+
+🔹 Twitter (X)
+Acesse: Configurações de Segurança Twitter
+
+Vá em Segurança > Autenticação em duas etapas.
+
+Escolha:
+
+Aplicativo autenticador
+
+SMS
+
+Chave de segurança física
+
+🔗 Ajuda oficial Twitter
+
+🎯 Dicas Rápidas de Segurança
+Prefira aplicativos autenticadores em vez de SMS.
+
+Ative 2FA em todos os serviços importantes (e-mail, bancos, redes sociais).
+
+Armazene seus códigos de backup em local seguro (não apenas no celular).
+
+Revise periodicamente suas configurações de segurança.
+
+🌐 Conecte-se Comigo
+
+
+⚡ Bora proteger suas contas!
