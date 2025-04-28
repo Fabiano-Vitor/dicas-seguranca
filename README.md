@@ -20,17 +20,6 @@
 		</li>
  </ul>
 
-Acesse: [Configurações de Segurança do Google](https://myaccount.google.com/security)<br>
-Vá até a seção "Como fazer login no Google".
-Clique em "Verificação em duas etapas" > "Ativar".
-Escolha entre:
-Aplicativo autenticador (Google Authenticator, Authy)
-SMS
-Chave de segurança física (YubiKey)
-
-📸 Exemplo:
-
-
 [🔗 Guia oficial do Google sobre 2FA](https://myaccount.google.com/security)
 
 
