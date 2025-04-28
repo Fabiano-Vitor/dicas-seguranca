@@ -85,5 +85,4 @@ Revise periodicamente suas configurações de segurança. <br>
 
 <h3>⚡ Bora proteger suas contas! </h3>
 
-✍️ Autor
-Fabiano Vitor de Souza Tavares
+✍️ Autor: Fabiano Vitor de Souza Tavares
