@@ -22,9 +22,7 @@
 
 [🔗 Guia oficial do Google sobre 2FA](https://myaccount.google.com/security)
 
-
-
-Vá até a
+<hr>
 
 🔹 Hotmail / Outlook / Microsoft Account
 Acesse: Configurações de Segurança Microsoft
