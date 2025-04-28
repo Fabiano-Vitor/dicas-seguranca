@@ -9,18 +9,16 @@
 📌 Ativando Autenticação em Duas Etapas (2FA)<br>
 🔹 Google (Gmail)<br>
  <ul class="Gmail">
-		<li><a href="#"></a> Configurações de Segurança do Google </li>
-		<li><a href="#">Vá até a seção "Como fazer login no Google</a></li>
-	  		<li><a href="#">Clique em "Verificação em duas etapas" > "Ativar".</a>
-	         	<ul>
-	                  <li><a href="#">Aplicativo autenticador (Google Authenticator, Authy)</a></li>
-	                  <li><a href="#">SMS</a></li>
-	                  <li><a href="#">Chave de segurança física (YubiKey)</a></li>
-	       		</ul>
-			</li>
-</ul>
-
-
+	<li><a href="https://myaccount.google.com/security"></a> Configurações de Segurança do Google </li>
+	<li><a href="#">Vá até a seção "Como fazer login no Google</a></li>
+		<li><a href="#">Clique em "Verificação em duas etapas" > "Ativar".</a>
+	       	<ul>
+	           <li><a href="#">Aplicativo autenticador (Google Authenticator, Authy)</a></li>
+	           <li><a href="#">SMS</a></li>
+	           <li><a href="#">Chave de segurança física (YubiKey)</a></li>
+		</ul>
+		</li>
+ </ul>
 
 Acesse: [Configurações de Segurança do Google](https://myaccount.google.com/security)<br>
 Vá até a seção "Como fazer login no Google".
@@ -34,6 +32,9 @@ Chave de segurança física (YubiKey)
 
 
 [🔗 Guia oficial do Google sobre 2FA](https://myaccount.google.com/security)
+
+
+
 Vá até a
 
 🔹 Hotmail / Outlook / Microsoft Account
@@ -42,20 +43,6 @@ Acesse: Configurações de Segurança Microsoft
 Clique em "Opções de segurança avançadas".
 
 Vá até "Verificação em duas etapas" e clique em "Ativar".
-
- <ul class="menu">
-		<li><a href="#">Home</a></li>
-		<li><a href="#">Sobre</a></li>
-	  		<li><a href="#">O que fazemos?</a>
-	         	<ul>
-	                  <li><a href="#">Web Design</a></li>
-	                  <li><a href="#">SEO</a></li>
-	                  <li><a href="#">Design</a></li>
-	       		</ul>
-			</li>
-		<li><a href="#">Links</a></li>
-		<li><a href="#">Contato</a></li>
-</ul>
 
 Escolha entre:
 
