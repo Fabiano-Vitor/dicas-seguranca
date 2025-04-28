@@ -6,6 +6,8 @@
 🔐 Foco em autenticação em duas etapas (2FA) e boas práticas de segurança.<br>
 ✨ Ideal para estudo, prática e conscientização.
 
+<hr>
+
 📌 Ativando Autenticação em Duas Etapas (2FA)<br>
 🔹 Google (Gmail)<br>
  <ul class="Gmail">
