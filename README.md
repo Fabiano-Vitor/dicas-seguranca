@@ -2,8 +2,8 @@
 
 🚀 Sobre este Repositório
 
-📚 Conteúdo para ajudar iniciantes a proteger suas contas online.
-🔐 Foco em autenticação em duas etapas (2FA) e boas práticas de segurança.
+📚 Conteúdo para ajudar iniciantes a proteger suas contas online.<br>
+🔐 Foco em autenticação em duas etapas (2FA) e boas práticas de segurança.<br>
 ✨ Ideal para estudo, prática e conscientização.
 
 📌 Ativando Autenticação em Duas Etapas (2FA)
